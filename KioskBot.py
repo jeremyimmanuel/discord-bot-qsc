@@ -98,4 +98,5 @@ async def on_member_join(member):
 
 
 # This is the key that Discord provided for each bot
+# This key doesn't work
 KB.run('Njg2MzQ2NTYxNTQxNjM2MTE2.Xmr3tw.v3vmYcaso1hHMgP5NeM1uVVU_BE')
